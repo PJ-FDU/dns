@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "dns_data_pack.h": "c",
+        "dns_data_pack.h\u0000ack.h": "c",
+        "dns_data_pack.h\u0000ata_pack.h": "c",
+        "dns_data_pack.h\u0000a_pack.h": "c",
+        "dns_data_pack.h\u0000ta_pack.h": "c",
+        "dns_data_pack.h\u0000_pack.h": "c"
+    }
+}
